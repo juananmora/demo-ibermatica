@@ -153,7 +153,7 @@
 </div>
 
 
-<div id="footbar-checkout" class="container-wrapper">
+<div id="footbar-checkout" class="container-wrapper center_footer">
 	
 		
 				
@@ -164,8 +164,6 @@
 					<li class="li_conditions"><a class="enlacefooter" href="#">Política de privacidad y Aviso legal</a></li>
 					<li class="li_conditions"><a class="enlacefooter" href="#">Accesibilidad</a></li>
 					<li class="li_conditions"><a class="enlacefooter" title="Descarga el código de conducta (abre en ventana nueva)" href="https://ibermatica.com/wp-content/uploads/sites/4/2021/04/Ibermatica-Codigo-Conducta.pdf" target="_blank" rel="noopener noreferrer">Código de conducta</a></li>
-					<li class="li_conditions"><a class="enlacefooter" title="Descarga el informe (abre en ventana nueva)" href="https://ibermatica.com/wp-content/uploads/sites/4/2021/04/Grupo-Ibermatica-Estado-Informacion-No-Financiera-2020.pdf" target="_blank" rel="noopener noreferrer">Estado de Información No Financiera </a></li>
-					<li class="li_conditions"><a class="enlacefooter" href="/accionistas-informacion-corporativa">Accionistas / Información corporativa</a></li>
 				</ul>
 	
 		</div>
