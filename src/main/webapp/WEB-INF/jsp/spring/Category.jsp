@@ -5,7 +5,6 @@
 		<a href="<c:url value="/shop/index.do"/>">&lt;&lt; Menu</a>
 	</div>
 
-	<p>
 	<center>
 		<h2>
 			<c:out value="${category.name}" />
