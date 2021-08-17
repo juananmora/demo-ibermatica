@@ -24,7 +24,14 @@ html, body {
 {
 	margin-bottom: 5em;
 	overflow-y: scroll;
-    height: 79%;
+    height: 74%;
+}
+
+.content-confirm-detail
+{
+	margin-bottom: 5em;
+	overflow-y: scroll;
+    height: 76%;
 }
 .card_desc
 {
@@ -153,7 +160,7 @@ html, body {
 
 .margin_content 
 {
-	margin-top: 10%
+	margin-top: 6%
 }
 
 #welcome-index, .background_welcome {
@@ -226,6 +233,7 @@ a {
 	width: 100%;
 	position: fixed;
 	bottom: 0;
+	left: 7%;
 }
 
 #footbar-checkout {
@@ -640,6 +648,13 @@ input.form-control {
 	color: #333333;
     font-size: 1.8em;
     letter-spacing: 0.01em;
+}
+
+.center_footer
+{
+	display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .subtitle_services
