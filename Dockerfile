@@ -1,4 +1,4 @@
-FROM tomcat:8.5
+FROM juananmora/ibermaticak8s:16
 
 LABEL maintainer="jamora@minsait.com"
 
