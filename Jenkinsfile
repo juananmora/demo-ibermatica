@@ -35,7 +35,7 @@ node('java-docker-slave') {
 			 }
 			stage ('Build Image'){
 				sh "docker build -t juananmora/tomcatminsait:'$BUILD_NUMBER' ."
-				sh "docker login -u juananmora -p gloyjonas"
+				sh "docker login -u juananmora -p "
 				sh "docker push juananmora/tomcatminsait:'$BUILD_NUMBER'"
 				sh "docker image rm juananmora/tomcatminsait:'$BUILD_NUMBER'"
 				//sh """docker rmi "\$(docker images -f 'dangling=true' -q)\""""
