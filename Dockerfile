@@ -1,4 +1,4 @@
-FROM tomcat:8.5
+FROM tomcat:9.0.4
 
 LABEL maintainer="jamora@minsait.com"
 
