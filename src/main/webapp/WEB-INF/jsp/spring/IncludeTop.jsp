@@ -18,9 +18,9 @@
 				</a>
 			</div>
 			<div id="cartbar">
-				<!-- <a href="<c:url value="/shop/viewCart.do"/>">
+				<a href="<c:url value="/shop/viewCart.do"/>">
 					<img border=0 id="carrito" alt="Carrito" src="../img-minsait/cart.png">
-				</a>-->
+				</a>
 				|
 				<c:if
 					test="${empty userSession.account}">
